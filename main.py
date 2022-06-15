@@ -9,8 +9,8 @@ import random
 
 start = time.time()
 browser = webdriver.Edge()
-account = "ko33898706@gmail.com"
-password = "instagram0934"
+account = "ACCOUNT"
+password = "PASSWORD"
 
 #自動登入
 account_locator = (By.XPATH, 
